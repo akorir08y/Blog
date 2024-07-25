@@ -15,6 +15,7 @@ body{
     border-radius: 15px;
     align-items: start;
     justify-content: start;
+    border: 1px solid black;
     gap: 2px;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
